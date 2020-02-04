@@ -1,0 +1,6 @@
+name = "edge-cloudflareworkers-couchdb"
+type = "webpack"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
